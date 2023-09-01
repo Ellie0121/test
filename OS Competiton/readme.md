@@ -1,4 +1,4 @@
-![image](https://github.com/Ellie0121/test/assets/139098194/fcbeb0bc-ed22-43a9-b3d1-4b150d5ac6b0)## 第七届全国大学生集成电路创新创业大赛
+## 第七届全国大学生集成电路创新创业大赛
 
 2023年8月28日，根据大赛章程和技术方案，经过大赛评审组的评审和技术委员会的复核，OS内核设计赛道使用“华山派”获奖名单公布如下。
 <img width="663" alt="截屏2023-09-01 下午4 44 44的副本2" src="https://github.com/Ellie0121/test/assets/139098194/e307db5a-3ace-4c00-925c-bb6ee365e280">
